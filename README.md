@@ -26,7 +26,7 @@ Welcome to the Hiper Calculator project! This Rust program provides a simple con
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/zakialmarzan/Hiper_Calculator.git   
+   git clone https://github.com/Xen0cryst/Hiper_Calculator.git   
 
 2. Navigate to the project directory:
    ```bash
